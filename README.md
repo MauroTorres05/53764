@@ -27,7 +27,7 @@ Para ejecutar este proyecto, es necesario tener instalado [Node.js](https://node
 
 1. Clonar este repositorio en tu máquina local:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/MauroTorres05/53764>
 
 ```
 
