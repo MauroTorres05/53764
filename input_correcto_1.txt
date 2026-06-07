@@ -1,0 +1,8 @@
+valor = 10;
+output("Iniciando evaluación");
+switch(valor) {
+    case 10:
+        output("El valor es diez");
+    default:
+        output("No es diez");
+}

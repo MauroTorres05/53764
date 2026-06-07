@@ -1,0 +1,6 @@
+valor = 5;
+output("Prueba");
+switch(valor) {
+    case 5:
+        output("cinco") @;
+}

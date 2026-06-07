@@ -1,0 +1,7 @@
+estado = "activo";
+switch(estado) {
+    case "activo":
+        output("Sistema en linea");
+    case "inactivo":
+        output("Sistema fuera de linea");
+}
